@@ -20,11 +20,20 @@ body {
 
 .featured-text {
 	margin-left: 10px;
+	font-size: 300%;
 }
 
 .title-logo {
 	padding: 15px;
-	padding-bottom: 0px;
+	padding-bottom: 10px;
+}
+
+.title-text {
+	padding-right: 25px;
+}
+
+.work-text {
+	font-size: 300%;
 }
 
 .jumbotron { 
@@ -34,7 +43,9 @@ body {
 	margin: 10px;
 	margin-left: 0px;
 	margin-right: 0px;
-	border-width: 4px
+	border-width: 4px;
+	border-color: #BCBBBB;
+	background-color: #BCBBBB;
 }
 
 .bottom-space {
