@@ -5,6 +5,15 @@ body {
 }
 
 
-.hor-rule{
+.text-light {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+
+.hor-rule {
 	margin: 10px;
 }
