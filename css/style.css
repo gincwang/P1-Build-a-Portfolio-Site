@@ -4,7 +4,7 @@ body {
 	font-weight: 300;
 }
 
-
+/*text classes*/
 
 .text-light {
 	color: #BCBBBB;
@@ -18,9 +18,10 @@ body {
 	font-size: 65px;
 }
 
-.featured-text {
-	margin-left: 10px;
-	font-size: 300%;
+/*title classes*/
+
+.title-row {
+	margin-top: 30px;
 }
 
 .title-logo {
@@ -30,15 +31,11 @@ body {
 
 .title-text {
 	padding-right: 25px;
+	margin-top: 10px;
 }
 
-.work-text {
-	font-size: 300%;
-}
+/*horizontal rule*/
 
-.jumbotron { 
-	margin-top: 20px;
-}
 .hor-rule {
 	margin: 10px;
 	margin-left: 0px;
@@ -47,6 +44,27 @@ body {
 	border-color: #BCBBBB;
 	background-color: #BCBBBB;
 }
+
+/*jumbotron*/
+
+.jumbotron { 
+	margin-top: 20px;
+}
+
+/*featured classes*/
+
+.featured-text {
+	margin-left: 10px;
+	font-size: 300%;
+}
+
+/*work classes*/
+
+.work-text {
+	font-size: 300%;
+}
+
+/*extra margin*/
 
 .bottom-space {
 	margin-bottom: 30px;
