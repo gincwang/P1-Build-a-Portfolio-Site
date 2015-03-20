@@ -18,6 +18,10 @@ body {
 	font-size: 65px;
 }
 
+.text-dark {
+	color: #747704;
+}
+
 /*title classes*/
 
 .title-row {
